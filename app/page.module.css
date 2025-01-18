@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   background-color:
-  rgba(0,0,0,0.5);
+  rgba(0, 0, 0, 0.343);
   color: #fff;
   overflow:hidden;
   padding: 200px 0;
@@ -36,7 +36,7 @@
 
 .news {
   position: relative;
-  background-color: #fff;
+  background-color: #f6f2ef;
   width:840px;
   margin: -40px auto 0;
   padding: 24px 40px;

@@ -11,16 +11,16 @@ export default async function Home() {
     <>
       <section className={styles.top}>
       <div>
-        <h1 className={styles.title}>テクノロジーの力で世界を変える</h1>
+        <h1 className={styles.title}>ll lll l</h1>
         <p className={styles.description}>
-        私たちは市場をリードしているグローバルカンパニーです。</p>
+        　</p>
       </div>
 
       <Image
         className={styles.bgimg}
-        src="/img-mv.jpg"
+        src="/denki.png"
         alt=""
-        width={4000}
+        width={3000}
         height={1200}
       />
       </section>
